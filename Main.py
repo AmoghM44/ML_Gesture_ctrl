@@ -1,7 +1,6 @@
 import subprocess
 from tkinter import *
 
-
 def callmouse():
     subprocess.Popen('python Mouse.py',shell=True)
 
