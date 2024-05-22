@@ -19,4 +19,8 @@ virtual media ctrl-->
   * show 2 fingers = volumeUp
   * show 3 fingers = volumeDown
   * show 4/5 fingers = forward 30 sec (forward arrow)
+<<<<<<< HEAD
   * show calling symbol (🤙) = backward 30 sec (back arrow)
+=======
+  * show calling symbol (🤙) = backward 30 sec (back arrow)
+>>>>>>> 72806a46446712e5459bed8ff41c72498255409b
