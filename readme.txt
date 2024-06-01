@@ -1,6 +1,6 @@
 open the current folder path and run this command in cmd
 
-pip install -r requirement.txt
+pip install (all imports)
 
 NOTE : keyboard has exit button, and the other two can be exited by pressing 'e' key
 
